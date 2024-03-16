@@ -1,0 +1,26 @@
+
+.book-info{
+    width: 800px;
+    height: 600px;
+
+    border: 3px solid black;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  
+
+.head{
+    text-align: center;
+    padding: 15px;
+
+}
+.other{
+    text-align: center;
+
+    font-size: 15px;
+}
+.other2{
+    margin-top: 10px;
+    text-align: center;
+
+    font-size: 15px;
+}
